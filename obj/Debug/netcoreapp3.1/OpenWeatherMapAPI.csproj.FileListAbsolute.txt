@@ -1,0 +1,15 @@
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.exe
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.deps.json
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.runtimeconfig.json
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.runtimeconfig.dev.json
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.dll
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\OpenWeatherMapAPI.pdb
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csproj.AssemblyReference.cache
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.AssemblyInfoInputs.cache
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.AssemblyInfo.cs
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csproj.CoreCompileInputs.cache
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.csproj.CopyComplete
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.dll
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.pdb
+F:\repos\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\netcoreapp3.1\OpenWeatherMapAPI.genruntimeconfig.cache
